@@ -1,0 +1,6 @@
+Basit Doğrusal Regresyon:
+
+Temel amaç, bağımlı ve bağımsız değişken arasındaki ilişkiyi ifade eden doğrusal fonksiyonu bulmaktır.
+
+Modellemek: çeşitli kavramlar arasındaki ilişkileri belirli matematiksel formlarda ifade etmektir.
+anakitle modeli, örneklem modeli, tahmin modeli

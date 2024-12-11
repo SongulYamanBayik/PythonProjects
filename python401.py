@@ -131,3 +131,4 @@ try:
     print(a/b)
 except TypeError:
     print("sayı ve string problemi")
+    
